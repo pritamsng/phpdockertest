@@ -1,3 +1,3 @@
-FROM boxedcode/alpine-nginx-php-fpm
-COPY demo-php-simple-app/ /var/www/html
+FROM boxedcode/alpine-nginx-php-fpm/
+COPY ~/jobs/DockerTestForPHP/workspace/simplephp/ /var/www/html
 EXPOSE 80
