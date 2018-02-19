@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
-                <h2>Congratulations! Pritam</h2>
+                <h2>Congratulations! Pritam Patel</h2>
                 <p>Your PHP application is now running on the Docker host &ldquo;<?php echo gethostname(); ?>&rdquo; in your Test environment of Docker&nbsp;Cloud.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
